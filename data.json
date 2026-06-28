@@ -1,13 +1,13 @@
 {
   "theme": {
-    "primary": "#ff006e",
-    "primaryDark": "#a8004e",
-    "primaryLight": "#3a0ca3",
-    "accent": "#8338ec",
-    "background": "#0a0612",
-    "surface": "#14091f",
-    "text": "#f4ecf6",
-    "textMuted": "#a99fb4",
+    "primary": "#d6006c",
+    "primaryDark": "#7a0a52",
+    "primaryLight": "#fde7f1",
+    "accent": "#9b4dff",
+    "background": "#ffffff",
+    "surface": "#fbf5fb",
+    "text": "#1a0a2e",
+    "textMuted": "#6b5b73",
     "typography": "modern"
   },
   "site": {
