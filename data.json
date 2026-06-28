@@ -387,12 +387,12 @@
     {
       "id": "playerbar",
       "label": "Barra superior · EN DIRECTO + Programa",
-      "enabled": true
+      "enabled": false
     },
     {
       "id": "liveinfo",
       "label": "EN DIRECTO · DJ + Horario + Party TV",
-      "enabled": true
+      "enabled": false
     },
     {
       "id": "clips",
