@@ -113,14 +113,6 @@
   ],
   "featuredNews": [
     {
-      "id": 1,
-      "title": "Tensión horas antes de la Velada del Año VI: Rivers se niega a pelear contra Roro por un detalle en el casco y deja en el aire su pelea",
-      "excerpt": "La rueda de prensa previa a La Velada del Año VI de Ibai Llanos celebrada este viernes estuvo marcada por la tensión. La youtuber mexicano Sammy Rivers sorprendió al negarse a pelear contra Roro por un detalle en el casco de la española y dejó en el aire la pelea durante un tiempo. ",
-      "image": "https://imagenes.20minutos.es/files/image_990_556/uploads/imagenes/2026/07/25/6a647706345c74-09620587.png",
-      "category": "Deportes",
-      "url": "https://www.20minutos.es/deportes/tension-horas-antes-velada-ano-vi-rivers-se-niega-pelear-contra-roro-por-un-detalle-casco-deja-aire-su-pelea_7018873_0.html"
-    },
-    {
       "id": 2,
       "title": "Farruko habla de la revolución de Bad Bunny y responde si le confunden con Farruquito",
       "excerpt": "Farruko visita LOS40 Global Show por primera vez para hablar con Tony Aguilar de su colaboración YAPAQUE junto a Steve Aoki y Greeicy, reflexionar sobre su manera de entender la música sin obsesionarse con los números y reivindicar la importancia de arriesgar y evolucionar. Además, muestra su admiración por Bad Bunny y aclara si alguna vez le han confundido con el bailaor español Farruquito.",
@@ -135,6 +127,14 @@
       "image": "https://grupovierci.brightspotcdn.com/dims4/default/53e9c52/2147483647/strip/true/crop/942x529+0+0/resize/1000x562!/format/webp/quality/90/?url=https%3A%2F%2Fk2-prod-grupo-vierci.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd1%2Fef%2F2955cbc34350a814ef74703fbb74%2Frauw-alejandro-michael-anthony-mikee-leones-espino-touching-the-sky-1800.webp",
       "category": "MÚSICA",
       "url": "https://www.estacion40.com.py/e40news/rauw-alejandro-lamenta-el-fallecimiento-de-uno-de-sus-bailarines"
+    },
+    {
+      "id": 1,
+      "title": "Tensión horas antes de la Velada del Año VI: Rivers se niega a pelear contra Roro por un detalle en el casco y deja en el aire su pelea",
+      "excerpt": "La rueda de prensa previa a La Velada del Año VI de Ibai Llanos celebrada este viernes estuvo marcada por la tensión. La youtuber mexicano Sammy Rivers sorprendió al negarse a pelear contra Roro por un detalle en el casco de la española y dejó en el aire la pelea durante un tiempo. ",
+      "image": "https://imagenes.20minutos.es/files/image_990_556/uploads/imagenes/2026/07/25/6a647706345c74-09620587.png",
+      "category": "Deportes",
+      "url": "https://www.20minutos.es/deportes/tension-horas-antes-velada-ano-vi-rivers-se-niega-pelear-contra-roro-por-un-detalle-casco-deja-aire-su-pelea_7018873_0.html"
     },
     {
       "id": 4,
@@ -277,14 +277,14 @@
       "youtubeId": "1HyfQWHgDW0"
     },
     {
-      "title": "Corazón Serrano - Fría Ft. Los Kjarkas - 33 Aniversario",
-      "channel": "Corazón Serrano",
-      "youtubeId": "S4xcASh1naA"
+      "title": " SUPERESTRELLA",
+      "channel": "Aitana",
+      "youtubeId": "vz_vU53JvvI"
     },
     {
-      "title": "Corazón Serrano & María Becerra - Poco Yo Remix",
-      "channel": "Corazón Serrano",
-      "youtubeId": "BtHw-GfbbSQ"
+      "title": "DICHAVATE YA ICE DILAN ❌ REY TONY ❌ HELABUSADOR ❌ JIPMUSIC GLOBAL ❌ DJ HONDA - DICHAVATE ",
+      "channel": "@JipMusicGlobal⁩ ",
+      "youtubeId": "I_46tPHvVOw"
     },
     {
       "title": "Grupo Amor Rebelde - Mix Amor Sincero (Vídeo Oficial)",
