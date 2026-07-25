@@ -44,10 +44,6 @@
       "url": "#noticias"
     },
     {
-      "label": "PODCAST",
-      "url": "#podcast"
-    },
-    {
       "label": "CONTACTO",
       "url": "#contacto"
     }
@@ -84,27 +80,27 @@
   "news": [
     {
       "id": 1,
-      "title": "IDEA Internacional sobre la segunda vuelta en el Perú: «El llamado es a aceptar los resultados»",
-      "image": "https://laradiodequiruvilca.com/wp-content/uploads/2026/06/6a273b4bd3a1d14a7f0526e5-G2PtwK-150x150.png",
-      "category": "Política",
-      "date": "08 Jun 2026",
-      "url": "#"
+      "title": "Karol G adelanta su nuevo tema “Matadora”",
+      "image": "https://grupovierci.brightspotcdn.com/dims4/default/65e1f86/2147483647/strip/true/crop/739x308+0+0/resize/2880x1200!/format/webp/quality/90/?url=https%3A%2F%2Fk2-prod-grupo-vierci.s3.us-east-1.amazonaws.com%2Fbrightspot%2F5a%2Fc2%2F7195947641079445ff510f4a4f70%2Fimages-8.jfif",
+      "category": "MÚSICA",
+      "date": "Julio 24, 2026",
+      "url": "https://www.estacion40.com.py/e40news/karol-g-adelanta-su-nuevo-tema-matadora"
     },
     {
       "id": 2,
-      "title": "Resultados ONPE: 18 de las 25 regiones ya contabilizaron el total de actas",
-      "image": "https://laradiodequiruvilca.com/wp-content/uploads/2026/06/6a2783ae8f58e6baee03a9d5-gWF4Mc-150x150.jpg",
-      "category": "Política",
-      "date": "08 Jun 2026",
-      "url": "#"
+      "title": "Devuelven las entradas al show de Rosalía en Argentina",
+      "image": "https://grupovierci.brightspotcdn.com/dims4/default/957a4b3/2147483647/strip/true/crop/800x333+0+5/resize/2880x1200!/format/webp/quality/90/?url=https%3A%2F%2Fk2-prod-grupo-vierci.s3.us-east-1.amazonaws.com%2Fbrightspot%2F62%2Fce%2Fc54c849149a1afe671f6f3a01c7d%2Frosalia-en-argentina.webp",
+      "category": "MÚSICA",
+      "date": "Julio 21, 2026",
+      "url": "https://www.estacion40.com.py/e40news/devuelven-las-entradas-al-show-de-rosalia-en-argentina"
     },
     {
       "id": 3,
-      "title": "¡Insólito! Adulto mayor con discapacidad denuncia que su hijo lo desalojó de su casa",
-      "image": "https://laradiodequiruvilca.com/wp-content/uploads/2026/06/6a277b4bd3a1d14a7f0526f1-x0xg2l-150x150.png",
-      "category": "Locales",
-      "date": "08 Jun 2026",
-      "url": "#"
+      "title": "Marc Anthony y Nadia Ferreira dan la bienvenida a Myla",
+      "image": "https://grupovierci.brightspotcdn.com/dims4/default/f862d8f/2147483647/strip/true/crop/1200x500+0+0/resize/2880x1200!/format/webp/quality/90/?url=https%3A%2F%2Fk2-prod-grupo-vierci.s3.us-east-1.amazonaws.com%2Fbrightspot%2F5d%2F2c%2F297dc35b47f2b6d3bed8fca0f8fd%2Fmarc1-rv5rlvpcn84qcevnfvsgfok-1200x840-abc.webp",
+      "category": "MÚSICA",
+      "date": "Julio 21, 2026 ",
+      "url": "https://www.estacion40.com.py/e40news/marc-anthony-y-nadia-ferreira-dan-la-bienvenida-a-myla"
     },
     {
       "id": 4,
