@@ -58,12 +58,12 @@
   },
   "banners": [
     {
-      "image": "https://i.ibb.co/dnnC18C/CARRUSEL-RADIO-PARTY-WES-1.png",
+      "type": "",
+      "image": "https://i.ibb.co/b5DdVL8X/CARRUSEL-2.png",
       "url": "#"
     },
     {
-      "type": "",
-      "image": "https://i.ibb.co/2YH5MY4v/1783070987895.png",
+      "image": "https://i.ibb.co/dnnC18C/CARRUSEL-RADIO-PARTY-WES-1.png",
       "url": "#"
     },
     {
